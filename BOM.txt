@@ -1,0 +1,15 @@
+R1 2k ohm
+R2 2k ohm
+R3 2k ohm
+R4 2k ohm
+R5 2k ohm
+R6 2k ohm
+R7 2k ohm
+R8 100 ohm
+R9 100 ohm
+R10 100 ohm
+R11 0 ohm
+C1 10uF
+C2 0.1uF
+C3 10nF
+U1 ISD2100
